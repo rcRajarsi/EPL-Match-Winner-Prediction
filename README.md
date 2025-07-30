@@ -1,4 +1,4 @@
-# **EPL Match Winner Prediction(ML) Projct**
+# **EPL Match Winner Prediction(ML) Project**
 
 #### *This project aims to predict the outcome of English Premier League (EPL) football matches using historical match data and basic Machine Learning models. The models classify whether a team wins or not, based on match features like venue, opponent, match time, and day.*
 
@@ -8,11 +8,11 @@
 
 EPL-Match-Winner-Prediction/
 
-├── Datset /*Contains the EPL macth dataset used for the project*
+├── Dataset /*Contains the EPL macth dataset used for the project (`matches.csv`)*
 
-├── Python\_Notebook /*Jupyter notebook containing data processing, model building, evaluation, and visualization code*
+├── Python\_Notebook /*Jupyter notebook containing data processing, model building, evaluation, and visualization code (prediction.ipynb`)*
 
-├── README.md /*Project documentation and overview*
+├── README.md /*Project documentation and overview (`README.md`)*
 
 
 

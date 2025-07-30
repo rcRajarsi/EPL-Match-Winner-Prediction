@@ -10,7 +10,7 @@ EPL-Match-Winner-Prediction/
 
 ├── Dataset /*Contains the EPL macth dataset used for the project (`matches.csv`)*
 
-├── Python\_Notebook /*Jupyter notebook containing data processing, model building, evaluation, and visualization code (prediction.ipynb`)*
+├── Python\_Notebook /*Jupyter notebook containing data processing, model building, evaluation, and visualization code (`prediction.ipynb`)*
 
 ├── README.md /*Project documentation and overview (`README.md`)*
 
